@@ -1,0 +1,14 @@
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(sbtMapExec 388 __e563d989-2ec7-48b7-8c7a-c10e01fb5cb9, None, None)
+[debug] > Exec(bspScalaTestClasses file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile, Some(__e563d989-2ec7-48b7-8c7a-c10e01fb5cb9), Some(CommandSource(network-16)))
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})
+[debug] Evaluating tasks: bspScalaTestClasses
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Jan 21, 2021, 9:35:40 AM
+[debug] > Exec(sbtCompleteExec 388, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(sbtReportResult 388, Some(388), Some(CommandSource(network-16)))
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})
+[debug] unmatched json response for requestId Some(388): {"status":"Done","channelName":"network-16","execId":"388","commandQueue":["shell"],"exitCode":0}
+[debug] > Exec(shell, None, None)

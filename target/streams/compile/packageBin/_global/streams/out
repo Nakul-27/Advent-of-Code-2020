@@ -1,0 +1,131 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/adventofcode_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day9$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day9$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day8$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day8$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day6$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day6$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$South$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$South$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$MyBool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$MyBool$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day8$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day8$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day8$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day8$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$West$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$West$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Movement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Movement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1$partOne$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day1$partOne$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$West.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$West.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day6$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day6$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Right.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Right.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Left.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Left.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day5$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day5$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1$partTwo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day1$partTwo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Forward$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Forward$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day4$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day4$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day10$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day10$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day10$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day10$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$pwordPolicy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$pwordPolicy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$Valid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$Valid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$East$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$East$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day7$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day7$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day8$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day8$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$North.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$North.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day6$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day6$Part2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$pwordPolicy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$pwordPolicy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$North$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$North$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$MyBool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$MyBool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day4$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day4$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day9$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day9$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Right$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Right$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day5$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day5$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day9$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day9$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$East.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$East.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1$Sol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day1$Sol.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day3$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day3$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day4$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day4$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Left$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Left$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$Forward.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$Forward.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day6$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day6$Over.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day12$South.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day12$South.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day5$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day5$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Day2$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/target/scala-2.13/classes/Day2$Part1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

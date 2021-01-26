@@ -1,0 +1,6 @@
+[error] /Users/nakul_rao/Desktop/School/West Point/CS 384/AOC/src/main/scala/day22.scala:91:5: type mismatch;
+[error]  found   : Unit
+[error]  required: Int
+[error]     }
+[error]     ^
+[error] one error found

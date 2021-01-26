@@ -1,0 +1,24 @@
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(sbtMapExec 275 __d6d4ce25-af7d-4dc5-9706-32c490c15a2b, None, None)
+[debug] > Exec(bspBuildTargetCompile file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile, Some(__d6d4ce25-af7d-4dc5-9706-32c490c15a2b), Some(CommandSource(network-7)))
+[debug] Unhandled notification received: build/exit: JsonRpcNotificationMessage(2.0, build/exit, null)
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})
+[debug] Evaluating tasks: bspBuildTargetCompile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"1339","parents":[]},"eventTime":1611345930040,"message":"Compiling aoc","dataKind":"compile-task","data":{"target":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"}}})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day2.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day7.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day6.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day3.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day8.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day5.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/src/main/scala/day1.scala"},"buildTarget":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"diagnostics":[],"reset":true})
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"1339","parents":[]},"eventTime":1611345930045,"message":"Compiled aoc","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile"},"errors":0,"warnings":0,"time":5}})
+[success] Total time: 0 s, completed Jan 22, 2021, 3:05:30 PM
+[debug] > Exec(sbtCompleteExec 275, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(sbtReportResult 275, Some(275), Some(CommandSource(network-7)))
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})
+[debug] unmatched json response for requestId Some(275): {"status":"Done","channelName":"network-7","execId":"275","commandQueue":["shell"],"exitCode":0}
+[debug] > Exec(shell, None, None)

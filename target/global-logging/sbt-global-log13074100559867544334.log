@@ -1,0 +1,14 @@
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(sbtMapExec 223 __67865f0f-12f4-40b3-99c0-65f00da9abca, None, None)
+[debug] > Exec(bspScalaTestClasses file:/Users/nakul_rao/Desktop/School/West%20Point/CS%20384/AOC/#aoc/Compile, Some(__67865f0f-12f4-40b3-99c0-65f00da9abca), Some(CommandSource(network-4)))
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})
+[debug] Evaluating tasks: bspScalaTestClasses
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Jan 22, 2021, 10:17:12 AM
+[debug] > Exec(sbtCompleteExec 223, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(sbtReportResult 223, Some(223), Some(CommandSource(network-4)))
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing"})
+[debug] unmatched json response for requestId Some(223): {"status":"Done","channelName":"network-4","execId":"223","commandQueue":["shell"],"exitCode":0}
+[debug] > Exec(shell, None, None)

@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 124 products, 15 sources, 1 libraries
+[debug] current source = Set(${BASE}/src/main/scala/day22.scala, ${BASE}/src/main/scala/day2.scala, ${BASE}/src/main/scala/day21.scala, ${BASE}/src/main/scala/day7.scala, ${BASE}/src/main/scala/day12.scala, ${BASE}/src/main/scala/day4.scala, ${BASE}/src/main/scala/day10.scala, ${BASE}/src/main/scala/day6.scala, ${BASE}/src/main/scala/day16.scala, ${BASE}/src/main/scala/day3.scala, ${BASE}/src/main/scala/day8.scala, ${BASE}/src/main/scala/day13.scala, ${BASE}/src/main/scala/day5.scala, ${BASE}/src/main/scala/day9.scala, ${BASE}/src/main/scala/day1.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes
